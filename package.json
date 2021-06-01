@@ -23,7 +23,7 @@
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "5.8.2"
+    "@fortawesome/fontawesome-free": "5.15.3"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
